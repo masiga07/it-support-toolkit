@@ -20,7 +20,7 @@ A collection of Python scripts designed to assist with system diagnostics, troub
 
 ## 📂 Project Structure
 - scripts/ → contains all automation scripts  
-- docs/ → documentation and guides  
+- docs/ → documentation and guides
 
 ## 🎯 Purpose
 This project demonstrates practical IT support skills through automation and scripting.
