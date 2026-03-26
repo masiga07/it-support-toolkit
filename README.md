@@ -18,6 +18,16 @@ A collection of Python scripts designed to assist with system diagnostics, troub
 ## 🛠️ Technologies Used
 - Python
  ## ▶️ Usage
+## 📸 Screenshots
+
+### System Information
+![System Info](assets/system_info.png)
+
+### Network Check
+![Network Check](assets/network_check.png)
+
+### Disk Cleanup
+![Disk Cleanup](assets/disk_cleanup.png)
 
 Run scripts using Python:
 
